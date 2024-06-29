@@ -1,3 +1,5 @@
 # baseballTwitter
 
-i want to make a bot that puts lines to twitter for fun
+goal: i want to integrate 1. a bot to post on twitter, and 2. something to predict baseball lines
+
+
